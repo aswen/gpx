@@ -22,7 +22,7 @@ We did not visit all campsites in the POI files. There might be campsites among
 them that are absolutely worthless.
 I own a Garmin Oregon 450t GPS and that's the only one I know how to place use
 files on. You can do so by connecting the gps to a pc and then copy any .gpx
-file into the folder <GPS>/GARMIN/gpx (not sure about case).
+file into the folder GPS-volume:/Garmin/GPX.
 
 ## Contributing
 Please help me by creating pull requests with updates of campsites!
