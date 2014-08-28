@@ -4,9 +4,9 @@
 
 * * *
 
-1. [Intro](/README.md/#intro)
-2. [Usage](/README.md/#usage)
-3. [Contributing](/README.md/#contributing)
+1. [Intro](/history/README.md/#intro)
+2. [Usage](/history/README.md/#usage)
+3. [Contributing](/history/README.md/#contributing)
 
 
 ## Intro
@@ -14,6 +14,7 @@ This repo keeps track of GPS tracks and POI files we actually cycled or walked.
 It's our personal hall of fame. Each of these tracks was a pleasure to follow
 and we encourage everybody to follow up our tracks.
 
+![Our current state](/history/history.png)
 ## Usage
 I own a Garmin Oregon 450t GPS and that's the only one I know how to place use
 files on. You can do so by connecting the gps to a pc and then copy any .gpx
